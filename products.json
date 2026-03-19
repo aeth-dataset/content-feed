@@ -1,0 +1,81 @@
+[
+  {
+    "i": "mobiles",
+    "n": "Mobiles",
+    "ic": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/mobile_icon.webp",
+    "s": [
+      {
+        "t": "Best Under ₹10,000",
+        "p": [
+          {
+             "i": "poco_c75",
+             "n": "Poco C75",
+             "img": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/m_pc75.webp",
+             "rb": "#1 Budget Pick",
+             "pr": "₹7,499",
+             "a": null,
+             "f": "https://flipkart.com/..."
+          }
+        ]
+      },
+      {
+        "t": "Best Under ₹15,000",
+        "p": [
+          {
+            "i": "mtg45",
+            "n": "Motorola G45",
+            "img": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/m_mtg45.webp",
+            "rb": "#1 Best Pick",
+            "pr": "₹10,999",
+            "a": "https://amazon.in/...",
+            "f": null
+          },
+          {
+            "i": "mtg57p",
+            "n": "Motorola g57 Power",
+            "img": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/m_mtg57p.webp",
+            "rb": "#2 Best Pick",
+            "pr": "₹13,999",
+            "a": "https://amazon.in/...",
+            "f": "https://flipkart.com/..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "i": "laptops",
+    "n": "Laptops",
+    "ic": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/laptop_icon.webp",
+    "s": [
+      {
+        "t": "Best Under ₹25,000",
+        "p": [
+          {
+             "i": "lenovo_v15",
+             "n": "Lenovo V15 Intel Celeron",
+             "img": "https://raw.githubusercontent.com/aeth-dataset/content-feed/refs/heads/main/images/l_lv15.webp",
+             "rb": "Student Pick",
+             "pr": "₹21,990",
+             "a": "https://amazon.in/...",
+             "f": null
+          }
+        ]
+      },
+      {
+        "t": "Best Under ₹35,000",
+        "p": [
+          {
+            "i": "acer_extensa",
+            "n": "Acer Extensa 15 (Ryzen 5)",
+            "img": "https://raw.githubusercontent.com/.../acer.webp",
+            "rb": "Performance Pick",
+            "pr": "₹32,990",
+            "a": "https://amazon.in/...",
+            "f": "https://flipkart.com/..."
+          }
+        ]
+      }
+    ]
+  }
+]
